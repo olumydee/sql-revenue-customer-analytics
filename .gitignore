@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+.vscode/
+
+# secrets
+.env
+*.key
+*.pem
+
+# data files (avoid uploading raw datasets by default)
+*.csv
+*.parquet
+*.xlsx
+
+# logs
+logs/
